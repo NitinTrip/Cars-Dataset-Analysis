@@ -1,2 +1,3 @@
 # Cars-Dataset-Analysis
-Data analysis performed on Cars Dataset
+This is a Python Project which shows data analysis on Cars dataset.
+
